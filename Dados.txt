@@ -1,0 +1,6 @@
+1;João;20
+2;Maria;25
+3;Pedro;30
+843234;kauan;20
+8423;kauan;30
+323;kauan;4
